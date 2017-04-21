@@ -1,14 +1,14 @@
 Xiami2netease
 
-#Description 
+# Description 
 
 Move all the songs you like in xiami to netease music.
 
-#Prepare 
+# Prepare 
 
 Make sure you have installed Node and NPM before getting start.
 
-#Getting Started 
+# Getting Started 
 
 **Step 1: Clone a copy of the main git repo by running:**
 
@@ -18,13 +18,13 @@ Make sure you have installed Node and NPM before getting start.
 
 	`npm install`
 
-#Usage 
+# Usage 
 
 	`node index.js -u|--uid <xiamiId> -a|--accound <neteaseAccount> -p|--pwd <neteasePassword> [-x|xjson <xiamiJson>] [-c]`
 
-#Argumants 
+# Argumants 
 
-##Required 
+## Required 
 
 **-u**<br/>
 **--uid**<br/>
@@ -38,7 +38,7 @@ Make sure you have installed Node and NPM before getting start.
 **--pwd**<br/>
 	`<neteasePassword>`: Netease music logging password
 
-##Options 
+## Options 
 
 **-x**<br/>
 **--xjson**<br/>
@@ -49,7 +49,7 @@ Make sure you have installed Node and NPM before getting start.
 **--cellphone**<br/>
 	Signing method in Netease music. Using Netease music's account to sign in by default.
 
-#Example 
+# Example 
 
 	node index.js -u 10651177 -a XXX@163.com -p ***
 ****	
