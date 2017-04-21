@@ -1,0 +1,20 @@
+{
+  "name": "xiame2netease",
+  "version": "0.0.1",
+  "description": "Move all the songs you like in xiami to netease music",
+  "main": "login.js",
+  "dependencies": {
+    "async": "^2.3.0",
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "fuse.js": "^2.6.2",
+    "optimist": "^0.6.1",
+    "superagent": "^3.5.2",
+    "url": "^0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zebr",
+  "license": "MIT"
+}
