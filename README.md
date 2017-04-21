@@ -12,15 +12,15 @@ Make sure you have installed Node and NPM before getting start.
 
 **Step 1: Clone a copy of the main git repo by running:**
 
-	`git clone https://github.com/Zebr415/move-music.git`
+	git clone https://github.com/Zebr415/move-music.git
 	
 **Step 2: Install npm packages**
 
-	`npm install`
+	npm install
 
 # Usage 
 
-	`node index.js -u|--uid <xiamiId> -a|--accound <neteaseAccount> -p|--pwd <neteasePassword> [-x|xjson <xiamiJson>] [-c]`
+	node index.js -u|--uid <xiamiId> -a|--accound <neteaseAccount> -p|--pwd <neteasePassword> [-x|xjson <xiamiJson>] [-c]
 
 # Arguments 
 
