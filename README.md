@@ -22,7 +22,7 @@ Make sure you have installed Node and NPM before getting start.
 
 	`node index.js -u|--uid <xiamiId> -a|--accound <neteaseAccount> -p|--pwd <neteasePassword> [-x|xjson <xiamiJson>] [-c]`
 
-# Argumants 
+# Arguments 
 
 ## Required 
 
