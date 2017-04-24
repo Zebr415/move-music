@@ -1,12 +1,11 @@
-Xiami2netease
+# Introduction 
 
-# Description 
-
-Move all the songs you like in xiami to netease music.
+## What is Xiami2netease
+Xiami2netease is a comman-line tool based on Node.js. It can move all collected songs of the user you specified in Xiami to Netease Cloud Music. ([Chinese Document](README_cn.md))
 
 # Prepare 
 
-Make sure you have installed Node and NPM before getting start.
+> Make sure you have installed Node and NPM before getting start.
 
 # Getting Started 
 
@@ -14,7 +13,7 @@ Make sure you have installed Node and NPM before getting start.
 
 	git clone https://github.com/Zebr415/move-music.git
 	
-**Step 2: Install npm packages**
+**Step 2: Install npm packages:**
 
 	npm install
 
